@@ -1,1 +1,1 @@
-use git clone <reposit name> to clone to local directory
+git clean -nd shows would be removed Non-tracked Directories
